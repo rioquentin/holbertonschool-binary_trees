@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left - func to insert a node
+ * binary_tree_insert_right - func to insert a node
  *
  * @parent: node's parent
  * @value: value of the node
