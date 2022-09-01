@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * 9-binary_tree_height - func to find height
+ * binary_tree_height - func to find height
  *
  * @tree: binary tree
  * Return: height
